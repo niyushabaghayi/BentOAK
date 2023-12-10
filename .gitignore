@@ -9,3 +9,6 @@ venv/
 
 # Data
 data/
+
+# Notebook Directory
+notebooks/
