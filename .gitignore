@@ -1,0 +1,11 @@
+# VSCode
+.vscode/
+
+# Config
+.env
+
+# Virtual Environment
+venv/
+
+# Data
+data/
